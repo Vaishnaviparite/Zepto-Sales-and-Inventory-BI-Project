@@ -57,6 +57,7 @@ ________________________________________
 •	Scatter graph shows limited correlation between selling price and discount percentage for certain categories
 ________________________________________
 ## Future Enhancements
+
 •	Add time‑based trend analysis for week/month sales  
 •	Include customer segmentation and retention patterns  
 •	Build ML model for demand forecasting  
