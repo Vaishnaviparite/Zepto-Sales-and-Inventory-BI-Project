@@ -7,12 +7,16 @@ ________________________________________
 ## Dataset Description
 The dataset contains detailed information about products, sales, pricing, and availability, including:
 •	Product Details: Category, Product Name, Weight  
+
 •	Sales Metrics: Quantity Sold, Total Revenue, MRP, Selling Price  
-•	Discount Metrics: Discount Percent, Discount Price Difference, Total Discount Amount  
+
+•	Discount Metrics: Discount Percent, Discount Price Difference, Total Discount Amount 
+
 This data supports analysis of sales behavior, pricing strategy effectiveness, and inventory efficiency across multiple product segments.
 ________________________________________
 ## Business Objectives
 The primary objectives of this BI analysis are:
+
 •	Identify high‑performing product categories  
 •	Compare discount percentage vs selling price behavior  
 •	Analyze out‑of‑stock frequency and availability trends  
