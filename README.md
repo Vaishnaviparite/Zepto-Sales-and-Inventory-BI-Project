@@ -6,6 +6,7 @@ This project uses a Zepto sales and inventory dataset to analyze product perform
 ________________________________________
 ## Dataset Description
 The dataset contains detailed information about products, sales, pricing, and availability, including:
+
 •	Product Details: Category, Product Name, Weight  
 
 •	Sales Metrics: Quantity Sold, Total Revenue, MRP, Selling Price  
@@ -18,6 +19,7 @@ ________________________________________
 The primary objectives of this BI analysis are:
 
 •	Identify high‑performing product categories  
+
 •	Compare discount percentage vs selling price behavior  
 •	Analyze out‑of‑stock frequency and availability trends  
 •	Study most best-selling products and their revenue contribution  
@@ -25,6 +27,7 @@ The primary objectives of this BI analysis are:
 ________________________________________
 ## Tools & Techniques
 Microsoft Power BI
+
 •	Data Cleaning & Transformation:
 o	Used Power Query to remove blanks, fix inconsistent labels, and convert data types.
 o	Corrected category formatting & numerical fields
