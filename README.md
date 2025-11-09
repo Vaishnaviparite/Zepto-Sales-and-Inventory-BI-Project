@@ -40,6 +40,7 @@ o	Avg Selling Price = AVERAGE('Zepto'[discount Selling Price])
 o	Out‑Of‑Stock Count = SUM('Zepto'[outOfStock])
 
 •	Visuals Used:
+
 o	 Card Visuals: Total revenue, products sold, discount %, avg selling price, stock‑outs  
 o	 Clustered Column Chart: Category quantity comparison  
 o	 Donut Chart: Out Of Stock Distribution  
@@ -51,6 +52,7 @@ o	 Table: High‑discount products with values
 o	 Filters/Slicers: Category, Product name
 ________________________________________
 ## Deliverables
+
 •	Cleaned Power BI dataset with transformed fields.
 •	Interactive dashboard summarizing product and inventory insights  
 •	KPI metrics for sales, pricing, and stock health  
