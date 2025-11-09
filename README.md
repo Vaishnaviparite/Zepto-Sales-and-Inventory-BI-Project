@@ -1,5 +1,8 @@
 ## Project Overview 
 This project uses a Zepto sales and inventory dataset to analyze product performance, pricing behavior, and stock availability patterns. Using Microsoft Power BI, the goal is to evaluate category‑wise sales, discount trends, product demand, and out‑of‑stock frequency to improve business planning and decision‑making in retail operations.
+
+## <img width="980" height="759" alt="Screenshot 2025-11-10 005919" src="https://github.com/user-attachments/assets/40192c24-ace2-42a5-9f16-5e6cefa13b69" />
+
 ________________________________________
 ## Dataset Description
 The dataset contains detailed information about products, sales, pricing, and availability, including:
