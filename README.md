@@ -19,7 +19,6 @@ ________________________________________
 The primary objectives of this BI analysis are:
 
 •	Identify high‑performing product categories  
-
 •	Compare discount percentage vs selling price behavior  
 •	Analyze out‑of‑stock frequency and availability trends  
 •	Study most best-selling products and their revenue contribution  
@@ -29,6 +28,7 @@ ________________________________________
 Microsoft Power BI
 
 •	Data Cleaning & Transformation:
+
 o	Used Power Query to remove blanks, fix inconsistent labels, and convert data types.
 o	Corrected category formatting & numerical fields
 o	Calculated additional fields to derive revenue & discount metrics
@@ -57,6 +57,7 @@ ________________________________________
 •	Word-based summary report (this document).
 ________________________________________
 ## Key Insights
+
 •	Chocolates & Candies, Dairy, Cooking Essentials and Beverages categories generate significant sales volume .
 •	Certain products showed high discount dependency for demand generation .
 •	Multiple highly‑sold products showed out‑of‑stock behavior, indicating strong demand. 
