@@ -3,7 +3,6 @@ This project uses a Zepto sales and inventory dataset to analyze product perform
 
 ## <img width="980" height="759" alt="Screenshot 2025-11-10 005919" src="https://github.com/user-attachments/assets/40192c24-ace2-42a5-9f16-5e6cefa13b69" />
 
-________________________________________
 ## Dataset Description
 The dataset contains detailed information about products, sales, pricing, and availability, including:
 
@@ -14,7 +13,7 @@ The dataset contains detailed information about products, sales, pricing, and av
 •	Discount Metrics: Discount Percent, Discount Price Difference, Total Discount Amount 
 
 This data supports analysis of sales behavior, pricing strategy effectiveness, and inventory efficiency across multiple product segments.
-________________________________________
+
 ## Business Objectives
 The primary objectives of this BI analysis are:
 
@@ -23,7 +22,7 @@ The primary objectives of this BI analysis are:
 •	Analyze out‑of‑stock frequency and availability trends  
 •	Study most best-selling products and their revenue contribution  
 •	Develop interactive dashboards to explore product metrics with filters
-________________________________________
+
 ## Tools & Techniques
 Microsoft Power BI
 
@@ -50,14 +49,14 @@ o	 Area Chart: Category‑wise revenue comparison
 o	 Scatter Chart: Selling price vs discount percentage  
 o	 Table: High‑discount products with values  
 o	 Filters/Slicers: Category, Product name
-________________________________________
+
 ## Deliverables
 
 •	Cleaned Power BI dataset with transformed fields.
 •	Interactive dashboard summarizing product and inventory insights  
 •	KPI metrics for sales, pricing, and stock health  
 •	Word-based summary report (this document).
-________________________________________
+
 ## Key Insights
 
 •	Chocolates & Candies, Dairy, Cooking Essentials and Beverages categories generate significant sales volume .
@@ -65,7 +64,7 @@ ________________________________________
 •	Multiple highly‑sold products showed out‑of‑stock behavior, indicating strong demand. 
 •	Category comparison chart shows distinct performance variation across product groups.
 •	Scatter graph shows limited correlation between selling price and discount percentage for certain categories
-________________________________________
+
 ## Future Enhancements
 
 •	Add time‑based trend analysis for week/month sales  
