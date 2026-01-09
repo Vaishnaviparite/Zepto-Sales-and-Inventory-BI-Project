@@ -60,9 +60,13 @@ o	 Filters/Slicers: Category, Product name
 ## Key Insights
 
 •	Chocolates & Candies, Dairy, Cooking Essentials and Beverages categories generate significant sales volume .
+
 •	Certain products showed high discount dependency for demand generation .
+
 •	Multiple highly‑sold products showed out‑of‑stock behavior, indicating strong demand. 
+
 •	Category comparison chart shows distinct performance variation across product groups.
+
 •	Scatter graph shows limited correlation between selling price and discount percentage for certain categories
 
 ## Future Enhancements
